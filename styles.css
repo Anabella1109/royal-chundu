@@ -74,7 +74,7 @@ body {
   }
   
   #services>h3{text-align:left;
-  color:rgba(105, 3, 3, 0.733);}
+  color:darkolivegreen;}
   
   #activities{margin-left:auto;
   margin-right:auto;
@@ -84,7 +84,7 @@ body {
   #activities td, #activities th{
     border:1px solid #ddd;
    padding:8px;
-   color:rgb(245, 247, 240);}
+   color:rgb(247, 250, 208);}
                              
   #activities tr{
     background-color:#f2f2f2;}
@@ -98,5 +98,15 @@ body {
     padding-bottom: 12px;
     text-align:left;
     color:white;}
+
+    #one{
+        background-color: black;
+        opacity:0.6;
+    }
+
+    .two{
+        background-color: black;
+        opacity:0.4;
+    }
   
   
