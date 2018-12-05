@@ -19,5 +19,5 @@ Just HTML and CSS
 If you have any questions or problems just clone it on Github and fix it
 ### License
 [MIT](https://choosealicense.com/licenses/mit/) 
-**cONTRIBUTORS:Me, myself and I**
+
   
