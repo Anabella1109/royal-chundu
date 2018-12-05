@@ -1,5 +1,6 @@
-.body {
+body {
     font-family: 'Work Sans', sans-Serif;
+    color:darkolivegreen;
   }
   
   .container {
@@ -22,7 +23,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(77, 41, 41, 0.5);
       z-index: 2;
   }
   
@@ -45,19 +46,19 @@
       padding: 18px;
       margin-right: 0;
       text-transform: uppercase;
-      text-decoration: none;
+      text-decoration: underline;
       display: block;
-      color: rgba(255, 255, 255, 0.733);
+      color: rgba(128, 128, 128, 0.733);
   }
   
   nav>ul>li>a:hover {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), insert 0 0 1px rgba(255, 255, 255, 0.6);
-      background: rgba(221, 109, 35, 0.678);
+      background: rgba(141, 71, 25, 0.678);
       color: rgba(0, 35, 122, 0.7);
   }
   
   #banner{padding:1.5%;}
-  #banner>a{text-decoration:none;}
+  #banner>a{text-decoration:underline;}
   
   #banner>a>h4{border:2px solid white;
   width:20%;
@@ -73,7 +74,7 @@
   }
   
   #services>h3{text-align:left;
-  color:rgba(255,255,255,0.733);}
+  color:rgba(105, 3, 3, 0.733);}
   
   #activities{margin-left:auto;
   margin-right:auto;
@@ -83,13 +84,13 @@
   #activities td, #activities th{
     border:1px solid #ddd;
    padding:8px;
-   color:white;}
+   color:rgb(245, 247, 240);}
                              
   #activities tr{
     background-color:#f2f2f2;}
   
   #activities tr:hover{
-    background-color:rgba(0,0,0,0.5);
+    background-color:rgba(100, 44, 44, 0.5);
   color:black;}
   
   #activities th{
